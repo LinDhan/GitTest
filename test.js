@@ -5,5 +5,7 @@ var fun2=function(){
     console.log('fn2') /**不动 */
 }
 var fun3=function(){
-    console.log('fn3')  /**新增 */
+    console.log('fn3')  /**新增 */}
+var testFun=function (params) {
+    console.log(12345)
 }
