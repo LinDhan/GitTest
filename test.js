@@ -7,5 +7,8 @@ var fun2=function(){
 var fun3=function(){
     console.log('fn3')  /**新增 */}
 var testFun=function (params) {
+    console.log(123555555555545)
+}
+var testFun2=function (params) {
     console.log(12345)
 }
